@@ -1,5 +1,5 @@
 # 📊 End-to-End Customer Churn Analysis  
-### Summary page  
+### 📌 Summary page  
 ![Summary Page](https://github.com/AKHILESHsingh1/End-to-End-Customer-Churn-Analysis-Project/blob/main/summay%20sanpshot.png)  
 
 ### 📌 Prediction View  

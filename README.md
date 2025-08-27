@@ -1,4 +1,9 @@
 # 📊 End-to-End Customer Churn Analysis  
+### Summary page  
+![Summary Page](https://github.com/AKHILESHsingh1/End-to-End-Customer-Churn-Analysis-Project/blob/main/summay%20sanpshot.png)  
+
+### 📌 Prediction View  
+![Prediction View](https://github.com/AKHILESHsingh1/End-to-End-Customer-Churn-Analysis-Project/blob/main/Prediction%20sanpshot.png) 
 
 ## 📌 Project Overview  
 This project demonstrates a complete **ETL pipeline, Business Intelligence dashboard, and Machine Learning model** to analyze and predict customer churn.  
